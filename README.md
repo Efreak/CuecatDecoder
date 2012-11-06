@@ -1,0 +1,4 @@
+CuecatDecoder
+=============
+
+Decodes CueCat input
